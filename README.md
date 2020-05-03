@@ -34,7 +34,7 @@ Many of the functionalities which we added in our hack was new for us. So, we ne
 
 After few hours we realized that lines of code has increased from where we started, so finding small errors were again a challenge for us.
 
-Not only this, one of our team mate was not having electricity and therefore wi-fi for almost 1hr. Rest we tried our best to take up these challenges and avoided it affecting us.
+Not only this, one of our team mate was not having electricity and therefore wi-fi for almost 1hr that too when last few hours were left, this was a nail biting situation for all of us. Rest we tried our best to take up these challenges and avoided it affecting us.
 
 ## Accomplishments that we're proud of
 As far this is our first hackathon, we are really proud of ourselves that we wrote such a long piece of code overnight, we learned a lot of new things which we don't think would be possible if we would have just lost our hope thinking that we don't know.
